@@ -1,0 +1,5 @@
+.DS_Store
+after/virtualenv/bin
+after/virtualenv/include
+after/virtualenv/lib
+after/virtualenv/pyvenv.cfg
